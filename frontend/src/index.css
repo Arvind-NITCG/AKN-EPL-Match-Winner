@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden; /* Stops scrolling */
+  overscroll-behavior: none; /* Stops the white bounce effect */
+  background-color: #0f172a; /* Matches slate-900 so white never shows */
+  -webkit-overflow-scrolling: touch;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}
