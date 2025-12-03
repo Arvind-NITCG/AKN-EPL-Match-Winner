@@ -36,14 +36,7 @@ Built with **React + Tailwind CSS**, focusing on Glassmorphism design principles
 
 ---
 
-## 📸 Screenshots
-
-**
-*![alt text](<Screenshot 2025-11-29 104041.png>)*
-
----
-
-## 🏃‍♂️ How to Run
+##  How to Run
 
 1. **Clone the Repo**
    ```bash
