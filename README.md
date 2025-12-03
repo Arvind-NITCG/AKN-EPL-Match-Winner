@@ -42,10 +42,12 @@ Built with **React + Tailwind CSS**, focusing on Glassmorphism design principles
    ```bash
    git clone https://github.com/Arvind-NITCG/AKN-EPL-Match-Winner.git
 2. **Start Backend**
+   ```bash
    cd backend
    pip install -r requirements.txt
    uvicorn main:app --reload
-3. **Start Frontend**
+4. **Start Frontend**
+   ``` bash
    cd frontend
    npm install
    npm start
